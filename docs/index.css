@@ -3,10 +3,6 @@ a, abbr, acronym, address, article, aside, audio, b, big, blockquote, body, canv
 
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
 
-html, body {
-  overflow: hidden !important;
-}
-
 body { line-height: 1; }
 
 ol, ul { list-style: none; }
@@ -4741,3 +4737,4 @@ input[name="carousel"] { display: none; }
 .tag:not(body).is-light { background-color: rgba(20, 28, 58, 0.08); color: #141c3a; }
 
 /*# sourceMappingURL=main.css.map */
+
