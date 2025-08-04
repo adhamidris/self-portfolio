@@ -329,9 +329,27 @@ table th { color: #363636; }
 }
 
 .github-icon,
-.email-icon {
+.email-icon,
+.discord-icon,
+.reddit-icon,
+.linkedin-icon {
   width: 42px !important;
   height: 42px !important;
+}
+
+.linkedin {
+  width: 37px !important;
+  height: 37px !important;
+}
+
+.reddit {
+  width: 35px !important;
+  height: 35px !important;
+}
+
+.discord {
+  width: 35px !important;
+  height: 35px !important;
 }
 
 .github {
@@ -4930,6 +4948,7 @@ input[name="carousel"] { display: none; }
 .tag:not(body).is-light { background-color: rgba(20, 28, 58, 0.08); color: #141c3a; }
 
 /*# sourceMappingURL=main.css.map */
+
 
 
 
