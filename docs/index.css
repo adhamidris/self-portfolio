@@ -368,6 +368,7 @@ table th { color: #363636; }
 .adham-main {
   padding: 0 !important;
   height: 100% !important;
+  width: 100% !important;
   margin-top: 25px !important;
   display: flex !important;
   flex-direction: row !important;
@@ -4769,6 +4770,7 @@ input[name="carousel"] { display: none; }
 .tag:not(body).is-light { background-color: rgba(20, 28, 58, 0.08); color: #141c3a; }
 
 /*# sourceMappingURL=main.css.map */
+
 
 
 
