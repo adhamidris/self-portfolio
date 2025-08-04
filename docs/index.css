@@ -373,15 +373,21 @@ table th { color: #363636; }
     width: auto;
     max-width: 100%;
   }
-
+  
   .navbar-adham {
-  height: 100px !important;
-}
+    height: 100px !important;
+  }
 
   .adham-main {
-    margin-top: 19px !important;
+    margin-top: 19px !important; 
+  }
   
 }
+
+
+
+
+
 
 .svg-main {
   border-bottom-color: rgb(20, 28, 58);
@@ -4755,6 +4761,7 @@ input[name="carousel"] { display: none; }
 .tag:not(body).is-light { background-color: rgba(20, 28, 58, 0.08); color: #141c3a; }
 
 /*# sourceMappingURL=main.css.map */
+
 
 
 
