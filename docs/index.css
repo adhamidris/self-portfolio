@@ -368,7 +368,7 @@ table th { color: #363636; }
 @media (max-width: 768px) {
   .adham-logo {
     height: auto !important;
-    max-height: 130px !important;
+    max-height: 150px !important;
     width: auto;
     max-width: 100%;
   }
@@ -4746,6 +4746,7 @@ input[name="carousel"] { display: none; }
 .tag:not(body).is-light { background-color: rgba(20, 28, 58, 0.08); color: #141c3a; }
 
 /*# sourceMappingURL=main.css.map */
+
 
 
 
