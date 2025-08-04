@@ -3,6 +3,11 @@ a, abbr, acronym, address, article, aside, audio, b, big, blockquote, body, canv
 
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
 
+.subtitle-adham {
+  color: #0A0A0AE6 !important;
+  filter: contrast(15.9) !important;
+}
+
 body { line-height: 1; }
 
 ol, ul { list-style: none; }
@@ -337,6 +342,10 @@ table th { color: #363636; }
   height: 32.5px !important;
 }
 
+.navbar-adham {
+  height: 150px !important;
+}
+
 .nav-container {
   height: 100% !important;
   width: 100% !important;
@@ -357,7 +366,11 @@ table th { color: #363636; }
 .adham-main {
   padding: 0 !important;
   height: 100% !important;
-  margin-top: 19px !important;
+  width: 100% !important;
+  margin-top: 25px !important;
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: center !important;
 }
 
 .adham-logo {
@@ -4374,7 +4387,7 @@ hr { background-color: #E6ECF8; }
 
 .hero.is-white .title { color: #141c3a; }
 
-.avatar { margin: 0 0; width: 270px; padding-bottom: 10px; padding-top: 20px !important;}
+.avatar { margin: 0 0; width: 350px !important; padding-bottom: 10px; padding-top: 20px !important;}
 
 @media screen and (min-width: 769px) { .avatar { width: 210px; padding-top: unset !important; } }
 
@@ -4761,6 +4774,7 @@ input[name="carousel"] { display: none; }
 .tag:not(body).is-light { background-color: rgba(20, 28, 58, 0.08); color: #141c3a; }
 
 /*# sourceMappingURL=main.css.map */
+
 
 
 
