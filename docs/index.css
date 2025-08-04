@@ -374,9 +374,9 @@ table th { color: #363636; }
 }
 
 .adham-logo {
-  height: calc(100% + 40px) !important;
-  max-width: 100% !important;
+  height: calc(100% + 60px) !important;
   max-height: inherit !important;
+  max-width: 100% !important;
 }
 
 @media (max-width: 768px) {
