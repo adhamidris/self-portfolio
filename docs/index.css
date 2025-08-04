@@ -418,6 +418,8 @@ table th { color: #363636; }
   align-items: center !important;
   height: 100% !important;
   width: 100% !important;
+  padding-top: 0 !important;
+  padding-bottom: 20px !important;
 }
 
 .box2 img {
@@ -425,6 +427,18 @@ table th { color: #363636; }
   margin-top: unset !important;
   padding-top: unset !important;
   margin-bottom: unset !important;
+}
+
+@media (min-width: 1024px) {
+  .projects-section {
+    position: relative !important;
+    padding-top: 60px !important;
+  }
+
+  .projects-adham-container {
+    position: relative !important;
+  }
+
 }
 
 .svg-main {
@@ -4412,7 +4426,7 @@ hr { background-color: #E6ECF8; }
 
 .hero.is-white .title { color: #141c3a; }
 
-.avatar { margin: 0 0; width: 350px !important; padding-bottom: 10px; padding-top: 20px !important;}
+.avatar { margin: 0 0; width: 350px !important; }
 
 @media screen and (min-width: 769px) { .avatar { width: 210px; padding-top: unset !important; } }
 
@@ -4799,6 +4813,7 @@ input[name="carousel"] { display: none; }
 .tag:not(body).is-light { background-color: rgba(20, 28, 58, 0.08); color: #141c3a; }
 
 /*# sourceMappingURL=main.css.map */
+
 
 
 
