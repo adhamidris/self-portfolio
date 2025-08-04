@@ -249,6 +249,8 @@ table th { color: #363636; }
     height: 80% !important;
     font-family: "eurostile", sans-serif !important;
     font-weight: bold !important;
+    margin-top: 20px !important;
+    padding: 13px !important;
   }
 
   .footer-section {
@@ -4813,6 +4815,7 @@ input[name="carousel"] { display: none; }
 .tag:not(body).is-light { background-color: rgba(20, 28, 58, 0.08); color: #141c3a; }
 
 /*# sourceMappingURL=main.css.map */
+
 
 
 
