@@ -525,6 +525,9 @@ table th { color: #363636; }
     resize: none !important;
   }
 
+  .form-input2 {
+    justify-items: left !important;
+  }
 
   .form-button2 {
     background-color: white !important;
@@ -4927,6 +4930,7 @@ input[name="carousel"] { display: none; }
 .tag:not(body).is-light { background-color: rgba(20, 28, 58, 0.08); color: #141c3a; }
 
 /*# sourceMappingURL=main.css.map */
+
 
 
 
