@@ -397,10 +397,35 @@ table th { color: #363636; }
   
 }
 
+.projects-section2 {
+  position: relative !important;
+  overflow: hidden !important;
+  height: 100% !important;
+  margin-bottom: unset !important;
+  padding-bottom: unset !important;
+}
 
+.project-box {
+  height: auto !important;
+  display: flex !important;
+  justify-content: space-around !important;
+}
 
+.box2 {
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  height: 100% !important;
+  width: 100% !important;
+}
 
-
+.box2 img {
+  position: relative !important;
+  margin-top: unset !important;
+  padding-top: unset !important;
+  margin-bottom: unset !important;
+}
 
 .svg-main {
   border-bottom-color: rgb(20, 28, 58);
@@ -4774,6 +4799,7 @@ input[name="carousel"] { display: none; }
 .tag:not(body).is-light { background-color: rgba(20, 28, 58, 0.08); color: #141c3a; }
 
 /*# sourceMappingURL=main.css.map */
+
 
 
 
